@@ -1,14 +1,14 @@
 # review-bot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that Probot to help review PRs
-
+jbarber-patch-1jbarber-patch-1
 test line. testy
 
 ## Setup
 
 ```sh
 # Install dependencies
-npm install
+npm installjbarber-patch-1
 
 # Run typescript
 npm run build
