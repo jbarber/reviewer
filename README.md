@@ -6,7 +6,7 @@ test line. testy
 
 ## Setup
 
-```sh
+```shasdasd
 # Install dependencies
 npm install
 
